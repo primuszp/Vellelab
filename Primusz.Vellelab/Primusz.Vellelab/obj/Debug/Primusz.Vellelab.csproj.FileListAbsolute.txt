@@ -1,0 +1,5 @@
+\\psf\Home\Desktop\Primusz.Vellelab\Primusz.Vellelab\bin\Debug\Primusz.Vellelab.dll
+\\psf\Home\Desktop\Primusz.Vellelab\Primusz.Vellelab\bin\Debug\Primusz.Vellelab.pdb
+\\psf\Home\Desktop\Primusz.Vellelab\Primusz.Vellelab\obj\Debug\Primusz.Vellelab.csprojResolveAssemblyReference.cache
+\\psf\Home\Desktop\Primusz.Vellelab\Primusz.Vellelab\obj\Debug\Primusz.Vellelab.dll
+\\psf\Home\Desktop\Primusz.Vellelab\Primusz.Vellelab\obj\Debug\Primusz.Vellelab.pdb
