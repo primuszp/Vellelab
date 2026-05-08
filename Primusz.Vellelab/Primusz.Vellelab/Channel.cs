@@ -93,7 +93,7 @@ namespace Primusz.Vellelab
 
         /// <summary>
         /// Selects one of the input amplifier hardware pre-selected gain settings.
-        /// The corresponding full scale (A/D output 255) volteges are following:
+        /// The corresponding full scale (A/D output 255) voltages are following:
         /// Gain: 1=30V, 2=15V, 5=6V, 10=3V
         /// </summary>
         /// <param name="channel">Between 1 and 4 which corresponds to the input channel number whose gain data is to be changed.</param>

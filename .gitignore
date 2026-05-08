@@ -1,0 +1,29 @@
+# Visual Studio files
+*.suo
+*.user
+*.sln.docstates
+.vs/
+
+# Build folders
+bin/
+obj/
+Debug/
+Release/
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
+*.log
