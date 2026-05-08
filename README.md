@@ -1,6 +1,8 @@
 # Primusz.Vellelab
 
-A robust C# library for interfacing with the K8047 USB A/D converter, enabling precise data acquisition and hardware control for laboratory and industrial applications.
+A robust C# library for interfacing with the K8047 four-channel analog recorder, enabling precise data acquisition and hardware control for laboratory and industrial applications.
+
+> **Note:** The K8047 is a retired product. This library provides continued support for existing installations.
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![.NET](https://img.shields.io/badge/.NET-Framework%204.5+-blue.svg)]()
@@ -31,7 +33,7 @@ Install-Package Primusz.Vellelab
 ### Manual
 1. Clone the repository:
 ```bash
-git clone https://github.com/primusz/Vellelab.git
+git clone https://github.com/primuszp/Vellelab.git
 ```
 
 2. Build the solution:
@@ -237,7 +239,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Support
 
-For issues, questions, or suggestions, please visit the [GitHub Issues](https://github.com/primusz/Vellelab/issues) page.
+For issues, questions, or suggestions, please visit the [GitHub Issues](https://github.com/primuszp/Vellelab/issues) page.
 
 ## Author
 
